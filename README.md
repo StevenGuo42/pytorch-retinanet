@@ -11,4 +11,4 @@
 ## Results
 ![table](./table1.png)
 
-For details please see the [report](./report.docx) and the presentation [slides](./slides.pptx)
+For details please see the [report](./report.pdf) and the presentation [slides](./slides.pdf)
